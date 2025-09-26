@@ -1,0 +1,14 @@
+langchain
+langchain-community
+langchain-core
+langchain-groq
+langchain-openai
+faiss-cpu
+tiktoken
+chromadb
+pypdf
+python-dotenv
+
+#Embeddings
+langchain-huggingface
+sentence-transformers
